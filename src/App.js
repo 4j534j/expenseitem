@@ -6,12 +6,12 @@ function App() {
     {
     date : new Date(2023, 0, 10),
     title: "New book",
-    price: 30.99
+    price: 5.99
     },
     {
       date : new Date(2023, 0, 10),
-      title: "New book",
-      price: 30.99
+      title: "Jeans",
+      price: 6.99
     }
   ]
   return (
